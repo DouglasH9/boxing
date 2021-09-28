@@ -1,0 +1,12 @@
+/Users/douglasherman/Desktop/CodingDojo/C#/boxing/obj/Debug/netcoreapp3.1/boxing.csprojAssemblyReference.cache
+/Users/douglasherman/Desktop/CodingDojo/C#/boxing/obj/Debug/netcoreapp3.1/boxing.AssemblyInfoInputs.cache
+/Users/douglasherman/Desktop/CodingDojo/C#/boxing/obj/Debug/netcoreapp3.1/boxing.AssemblyInfo.cs
+/Users/douglasherman/Desktop/CodingDojo/C#/boxing/obj/Debug/netcoreapp3.1/boxing.csproj.CoreCompileInputs.cache
+/Users/douglasherman/Desktop/CodingDojo/C#/boxing/bin/Debug/netcoreapp3.1/boxing.deps.json
+/Users/douglasherman/Desktop/CodingDojo/C#/boxing/bin/Debug/netcoreapp3.1/boxing.runtimeconfig.json
+/Users/douglasherman/Desktop/CodingDojo/C#/boxing/bin/Debug/netcoreapp3.1/boxing.runtimeconfig.dev.json
+/Users/douglasherman/Desktop/CodingDojo/C#/boxing/bin/Debug/netcoreapp3.1/boxing.dll
+/Users/douglasherman/Desktop/CodingDojo/C#/boxing/bin/Debug/netcoreapp3.1/boxing.pdb
+/Users/douglasherman/Desktop/CodingDojo/C#/boxing/obj/Debug/netcoreapp3.1/boxing.dll
+/Users/douglasherman/Desktop/CodingDojo/C#/boxing/obj/Debug/netcoreapp3.1/boxing.pdb
+/Users/douglasherman/Desktop/CodingDojo/C#/boxing/obj/Debug/netcoreapp3.1/boxing.genruntimeconfig.cache
